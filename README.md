@@ -391,25 +391,14 @@ module.exports = app
 ```
 
 14. 运行
-![](https://secure2.wostatic.cn/static/hF35sdmeLNWQZUcsC769DR/image.png)
+http://localhost:3000/userDemo/registerPage
 
-提交submit后
-
-![](https://secure2.wostatic.cn/static/uszpvM6kHC3KwfhWhyXA47/image.png)
+提交submit后自动跳转http://localhost:3000/userDemo/register
 
 进入登录页
+http://localhost:3000/userDemo/loginPage
 
-![](https://secure2.wostatic.cn/static/hQvdEckUow9eKAnAtPD6p8/image.png)
+提交submit后自动跳转http://localhost:3000/userDemo/login
 
-提交submit后
-
-![](https://secure2.wostatic.cn/static/tpg2mX1NKtXofEfB3y5UPT/image.png)
-
-查找所有人员
-
-![](https://secure2.wostatic.cn/static/2DrFhEahuXKYbKBs9aZkGG/image.png)
-
-15. 数据库表
-
-![](https://secure2.wostatic.cn/static/oRFMbH3TFnCeoXWpccPNmA/image.png)
+本项目参考博文：https://blog.csdn.net/where_slr/article/details/100580730
 
